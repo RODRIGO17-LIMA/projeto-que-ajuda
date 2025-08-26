@@ -3,7 +3,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(to right, #10E8C5, #bbdefb);
+    background: linear-gradient(to right, #10e8c5, #eb0b01);
     color: #333;
     text-align: center;
 }
@@ -54,7 +54,7 @@ main h1 {
 
 /* Rodapé */
 footer {
-    background-color: #eeeeee;
+    background-color: #eb0b01;
     padding: 15px;
     margin-top: 30px;
     font-size: 0.9em;
