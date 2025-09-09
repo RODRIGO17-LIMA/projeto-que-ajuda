@@ -38,8 +38,8 @@ header nav a {
 }
 
 header nav a:hover {
-    background-color: #ffeb3b;
-    color: #0d47a1;
+    background-color: #831d1c;
+    color: #831d1c;
 }
 
 /* Conteúdo principal */
@@ -48,7 +48,7 @@ main {
 }
 
 main h1 {
-    color: #F9F258;
+    color: #000000;
 }
 
 /* Rodapé */
