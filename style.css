@@ -9,7 +9,7 @@ body {
 
 /* Cabeçalho mais moderno */
 header {
-    background: linear-gradient(135deg, #0d47a1, #1976d2);
+    background: linear-gradient(135deg, #0d47a1, #9379D5);
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -53,7 +53,7 @@ main h1 {
 
 /* Rodapé */
 footer {
-    background-color: #883DFA;
+    background-color: #9379D5;
     padding: 15px;
     margin-top: 30px;
     font-size: 0.9em;
