@@ -9,7 +9,7 @@ body {
 
 /* Cabeçalho mais moderno */
 header {
-    background: linear-gradient(135deg, #ffffff, #ffffff);
+    background: linear-gradient(135deg, #8C80E8, #AE81E6);
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -28,8 +28,8 @@ header nav {
 
 header nav a {
     display: inline-block;
-    color: #ffeb3b;
-    margin: 0 15px;
+    color: #ffffff;
+    margin: 0 20px;
     text-decoration: none;
     font-weight: bold;
     padding: 6px 12px;
