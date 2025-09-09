@@ -9,7 +9,7 @@ body {
 
 /* Cabeçalho mais moderno */
 header {
-    background: linear-gradient(135deg, #8C80E8, #AE81E6);
+    background: linear-gradient(135deg, #1C46EB, #AE81E6);
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -38,8 +38,8 @@ header nav a {
 }
 
 header nav a:hover {
-    background-color: #831d1c;
-    color: #5EE689;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 /* Conteúdo principal */
