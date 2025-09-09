@@ -39,7 +39,7 @@ header nav a {
 
 header nav a:hover {
     background-color: #831d1c;
-    color: #831d1c;
+    color: #5EE689;
 }
 
 /* Conteúdo principal */
@@ -57,7 +57,7 @@ footer {
     padding: 15px;
     margin-top: 30px;
     font-size: 0.9em;
-    color: #555;
+    color: #FAF43C;
     box-shadow: 0 -2px 6px rgba(0,0,0,0.2);
 }
 
