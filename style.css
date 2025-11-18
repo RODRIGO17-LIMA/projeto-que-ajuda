@@ -243,18 +243,16 @@ footer {
 }
 
 .tema-escuro header {
-  background-color: linear-gradient(135deg, #121254, #38175e);
-    color: white;
-    padding: 20px 0;
-    text-align: center;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+  background-color: #121254;
 }
 
 .tema-escuro footer {
   background-color: #4a2559;
   color: #e9eef5;
 }
-
+.tema-escuro body {
+  background-color: #4a2559;
+}
 .tema-escuro .conteudo-scroll {
   background: #111821;
   border-color: #2a3645;
