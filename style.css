@@ -239,11 +239,11 @@ footer {
 /* ---------- TEMA ESCURO ---------- */
 .tema-escuro {
   background-color: #0f1720;
-  color: #e9eef5;
+  color: #070a0f;
 }
 
 .tema-escuro header {
-  background-color: #0b1220;
+  background-color: linear-gradient(135deg, #121254, #38175e);
 }
 
 .tema-escuro footer {
