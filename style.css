@@ -243,8 +243,8 @@ footer {
 }
 
 .tema-escuro header {
-  background-color: #121254;
-  color: #fcfcfc;
+  background: linear-gradient(135deg, #AE81E6, #1C46EB);
+  color: white;
 }
 
 .tema-escuro footer {
