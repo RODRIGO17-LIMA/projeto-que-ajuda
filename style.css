@@ -274,6 +274,7 @@ footer {
 
 .tema-escuro .tema-toggle .bolinha {
   transform: translateX(24px);
+  bkackground:  #000000;
 }
 
     
