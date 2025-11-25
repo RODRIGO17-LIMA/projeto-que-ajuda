@@ -244,6 +244,7 @@ footer {
 
 .tema-escuro header {
   background-color: #121254;
+  color: #fcfcfc;
 }
 
 .tema-escuro footer {
@@ -274,8 +275,6 @@ footer {
 .tema-escuro .tema-toggle .bolinha {
   transform: translateX(24px);
 }
-.tema-escuro .filiais{
-     background: #4a2559;
-}
+
     
 
